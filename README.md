@@ -7,4 +7,4 @@ A web platform that uses GPT-4, GPS, and multilingual voice support to help user
 The home page provides a user-friendly interface with seamless navigation to explore AI insights, speech tools, and GPS-based heritage discovery.
 
 <img src="Output/Home Page.jpg" width=600 heigth=250>
-#
+
